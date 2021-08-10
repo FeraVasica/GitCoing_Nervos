@@ -4,15 +4,14 @@
     
 ![alt text](3_1.png)
 
-2. The transaction hash from the console output (in text format).
-
+2. The transaction hash from the console output:
 0xd1255841980f85551bdc45c951bda49ef2ca948253bea48c78e888f2bffa6fa4
 
-3. The contract address that you called (in text format).
-
+3. The contract address:
 0x331aD726F0F5d0A9311382015037E8c87Dd38b15
 
-4. The ABI for contract you made a call on (in text format).
+4. The ABI for contract you made a call on:
+```
 [
     {
       "inputs": [],
@@ -45,4 +44,5 @@
       "stateMutability": "view",
       "type": "function"
     }
-];
+]
+```
